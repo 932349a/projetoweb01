@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>COTI Informática - Criar Conta de Usuário</title>
+<title>CGAEM - Criar Conta de Usuário</title>
 
 <!-- CSS only -->
 <link

@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>COTI Informática - Login de Usuários</title>
+<title>CGAEM - Login de Usuários</title>
 
 <!-- CSS only -->
 <link

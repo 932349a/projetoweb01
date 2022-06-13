@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>COTI Informática - Recuperar Senha</title>
+<title>CGAEM - Recuperar Senha</title>
 
 <!-- CSS only -->
 <link
